@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+
+video#filme {
+    display: block;
+    position: center;
+    left: 100px;
+    top: 85px;
+    width: 735px;
+}

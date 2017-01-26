@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 ul#album-fotos {
     width: 700px;
     margin: 0 auto;
@@ -72,7 +70,7 @@ ul#album-fotos li#foto03:hover {
 }
 
 ul#album-fotos li#foto04 {
-    background: url('../img/galeria-04.jpg') no-repeat;
+    background: url('../_imagens/galeria-04.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;

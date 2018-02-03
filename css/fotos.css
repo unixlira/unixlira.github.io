@@ -107,31 +107,18 @@ ul#album-fotos li#foto06:hover {
 @media (max-width: 768px) {
 
   ul#album-fotos li#foto01 {
-    margin-left: -20px;
+    margin-left: -10px;
     max-width: 100%;
 } 
- ul#album-fotos li#foto01:hover {
-    background-position: 0px 0px;
-    background-size: 175px 175px;
-}
  ul#album-fotos li#foto02 {
-    margin-top: 260px;
+    margin-top: 270px;
     margin-left: -220px;
     max-width: 100%;
 } 
-  ul#album-fotos li#foto02:hover {
-    background-position: 0px 0px;
-    background-size: 175px 175px;
-}
  ul#album-fotos li#foto03 {
-    margin-top: 530px;
+    margin-top: 540px;
     margin-left: -220px;
     max-width: 100%;
 } 
- ul#album-fotos li#foto03:hover {
-    background-position: 0px 0px;
-    background-size: 175px 175px;
-}
-    
     
 }

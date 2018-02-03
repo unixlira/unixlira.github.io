@@ -1,10 +1,23 @@
 @charset "UTF-8";
 
 
-video#filme {
+iframe {
     display: block;
     position: center;
     left: 100px;
     top: 85px;
     width: 735px;
+    height:435px;
+}
+
+@media (max-width: 768px) {
+	
+	iframe {
+		position: center;
+		width: 370px;
+		height: 320px;
+	}
+
+
+
 }

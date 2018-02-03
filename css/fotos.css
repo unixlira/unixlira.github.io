@@ -104,3 +104,21 @@ ul#album-fotos li#foto06:hover {
     background-position: 0px 0px;
     background-size: 200px 200px;
 }
+@media (max-width: 768px) {
+
+  ul#album-fotos li#foto01 {
+    margin-left: -30px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto02 {
+    margin-top: 270px;
+    margin-left: -220px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto03 {
+    margin-top: 540px;
+    margin-left: -220px;
+    max-width: 100%;
+} 
+    
+}

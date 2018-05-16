@@ -7,19 +7,16 @@
     bottom: 20px;
 }
 .certificados img#c01 {
-    background: url('../imagens/php.png') no-repeat;
     bottom: 20px;
     float:left;
     margin-left:75px;
 }
 .certificados img#c02 {
-    background: url('../imagens/phpoo.png') no-repeat;
     bottom: 20px;
     float:left; 
     margin-left:10px;
 }
 .certificados img#c03 {
-    background: url('../imagens/html5.png') no-repeat;
     bottom: 20px;
     float:left; 
     margin-left:75px;
@@ -221,23 +218,24 @@ ul#album-fotos li#foto09:hover {
     margin-bottom: -60px;
 } 
 img#c01 {
-    background: url('../imagens/php-min.png') no-repeat !important;   
+    background: url('../imagens/php-min.jpg') no-repeat !important;   
     width:320px; 
+    height:400px;    
     margin-left : 15px !important;
 }
 img#c02 {
-    background: url('../imagens/phpoo-min.png') no-repeat !important;
+    background: url('../imagens/phpoo-min.jpg') no-repeat !important;
     box-shadow: 2px 2px 4px #000000; 
     width:320px; 
-    height:300px;
+    height:400px;
     margin-top: 20px;
     margin-left: 15px !important;
     
 }
 img#c03 {
-    background: url('../imagens/html5-min.png') no-repeat !important;
+    background: url('../imagens/html5-min.jpg') no-repeat !important;
     width:320px; 
-    height:300px;
+    height:400px;
     margin-top: 20px;
     margin-left : 15px !important
 }

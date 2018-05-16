@@ -6,6 +6,25 @@
     height:400px;
     bottom: 20px;
 }
+.certificados img#c01 {
+    background: url('../imagens/php.png') no-repeat;
+    bottom: 20px;
+    float:left;
+    margin-left:75px;
+}
+.certificados img#c02 {
+    background: url('../imagens/phpoo.png') no-repeat;
+    bottom: 20px;
+    float:left; 
+    margin-left:10px;
+}
+.certificados img#c03 {
+    background: url('../imagens/html5.png') no-repeat;
+    bottom: 20px;
+    float:left; 
+    margin-left:75px;
+    margin-top: 20px;
+}
 
 .certificados{
     text-align: center;
@@ -201,5 +220,34 @@ ul#album-fotos li#foto09:hover {
     max-width: 100%;
     margin-bottom: -60px;
 } 
+img#c01 {
+    background: url('../imagens/php-min.png') no-repeat !important;   
+    width:320px; 
+    margin-left : 15px !important;
+}
+img#c02 {
+    background: url('../imagens/phpoo-min.png') no-repeat !important;
+    box-shadow: 2px 2px 4px #000000; 
+    width:320px; 
+    height:300px;
+    margin-top: 20px;
+    margin-left: 15px !important;
     
+}
+img#c03 {
+    background: url('../imagens/html5-min.png') no-repeat !important;
+    width:320px; 
+    height:300px;
+    margin-top: 20px;
+    margin-left : 15px !important
+}
+
+.certificados{
+    text-align: center;
+    color:#FFF; 
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom-color: 3px solid #FFF;
+}    
 }

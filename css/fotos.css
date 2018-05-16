@@ -1,5 +1,22 @@
 @charset "UTF-8";
 
+.certificados img {
+    box-shadow: 2px 2px 4px #000000; 
+    width:590px; 
+    height:400px;
+    bottom: 20px;
+}
+
+.certificados{
+    text-align: center;
+    color:#FFF; 
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom-color: 3px solid #FFF;
+}
+
+
 ul#album-fotos {
     width: 700px;
     margin: 0 auto;
@@ -13,7 +30,7 @@ ul#album-fotos li {
     width: 200px;
     height: 200px;
     margin: 10px;
-    border: 5px solid #ffffff;
+    border: 5px solid #23679d;
     background-color: #ffffff;
     box-shadow: 1px 1px 3px rgba(0,0,0,.4);
     -webkit-transition: all .4s ease-in;
@@ -104,21 +121,85 @@ ul#album-fotos li#foto06:hover {
     background-position: 0px 0px;
     background-size: 200px 200px;
 }
+ul#album-fotos li#foto07 {
+    background: url('../imagens/galeria-07.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#foto07:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+ul#album-fotos li#foto08 {
+    background: url('../imagens/galeria-08.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#foto08:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+ul#album-fotos li#foto09 {
+    background: url('../imagens/galeria-09.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#foto09:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+
 @media (max-width: 768px) {
 
   ul#album-fotos li#foto01 {
-    margin-left: -10px;
+    margin-left: 10px;
     max-width: 100%;
 } 
  ul#album-fotos li#foto02 {
-    margin-top: 270px;
+    margin-top: 240px;
     margin-left: -220px;
     max-width: 100%;
 } 
  ul#album-fotos li#foto03 {
-    margin-top: 540px;
+    margin-top: 470px;
     margin-left: -220px;
     max-width: 100%;
+}
+ ul#album-fotos li#foto04 {
+    margin-left: 10px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto05 {
+    margin-top: 240px;
+    margin-left: -220px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto06 {
+    margin-top: 470px;
+    margin-left: -220px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto07 {
+    margin-left: 10px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto08 {
+    margin-top: 240px;
+    margin-left: -220px;
+    max-width: 100%;
+} 
+ ul#album-fotos li#foto09 {
+    margin-top: 470px;
+    margin-left: -220px;
+    max-width: 100%;
+    margin-bottom: -60px;
 } 
     
 }

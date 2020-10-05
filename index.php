@@ -11,13 +11,13 @@
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="Lira"/>
-	<meta property="og:image" content="http://lira.digplay.tech/images/logo.png"/>
-	<meta property="og:url" content="http://lira.digplay.tech"/>
+	<meta property="og:image" content="https://unixlira.github.io/images/logo.png"/>
+	<meta property="og:url" content="https://unixlira.github.io"/>
 	<meta property="og:site_name" content="Lira"/>
 	<meta property="og:description" content="Portifólio José Roberto Lira"/>
 	<meta name="twitter:title" content="Lira" />
-	<meta name="twitter:image" content="http://lira.digplay.tech/images/logo.png" />
-	<meta name="twitter:url" content="http://lira.digplay.tech" />
+	<meta name="twitter:image" content="https://unixlira.github.io/images/logo.png" />
+	<meta name="twitter:url" content="https://unixlira.github.io" />
 	<meta name="twitter:card" content="" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->

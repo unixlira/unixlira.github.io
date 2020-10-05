@@ -8,8 +8,8 @@ $assunto = $_POST['assunto'];
 $mensagem = $_POST['mensagem'];
 
 if(sendLira($nome,$email,$assunto,$mensagem) && sendMail($nome,$email)){
-    header("location: http://lira.digplay.tech?send=true");
+    header("location: https://unixlira.github.io?send=true");
 }else{
-    header("location: http://lira.digplay.tech?send=false");
+    header("location: https://unixlira.github.io?send=false");
 }
 

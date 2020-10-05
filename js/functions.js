@@ -12,7 +12,7 @@ $(window).load(function() {
         }, 5000);
 
         setInterval(function(){
-            window.location.href="http://lira.digplay.tech/"; 
+            window.location.href="https://unixlira.github.io/"; 
         }, 5600);
     }
 

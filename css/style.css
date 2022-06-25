@@ -11,6 +11,9 @@
 *	Edit this section
 *
 * ======================================================= */
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;

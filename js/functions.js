@@ -17,3 +17,8 @@ $(window).load(function() {
     }
 
 });
+
+function ancora(id)
+{
+    window.location.href = `${window.location.pathname}#${id}`;
+}
